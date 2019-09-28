@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Wonderfull</string>
+
+    <string name="emergency_title">Nofall</string>
+    <string name="emergency_question">Brauchst du Hilfe?</string>
+    <string name="emergency_sos">   Hilfe rufen!</string>
+    <string name="emergency_fine"> Mir geht es gut. </string>
+    <string name="emergency_call_in">John Doe wird in 30 Sekunden automatisch angerufen.</string>
 </resources>
