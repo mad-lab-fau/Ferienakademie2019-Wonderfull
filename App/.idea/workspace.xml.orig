@@ -145,8 +145,13 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="293" />
     <option name="y" value="53" />
+=======
+    <option name="x" value="292" />
+    <option name="y" value="52" />
+>>>>>>> 45c5a497932b1f70c13f1e09f0f157dc5da7b8ca
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -220,6 +225,7 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-09-27T15:46:05.618Z" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -229,6 +235,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
     </key>
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 45c5a497932b1f70c13f1e09f0f157dc5da7b8ca
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -330,14 +339,6 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32962963" />
-      <window_info id="Structure" side_tool="true" />
-      <window_info id="Build Variants" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="Resources Explorer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24681087" />
       <window_info id="Structure" order="2" side_tool="true" />
@@ -372,10 +373,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/de/ferienakademie/wonderfull/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
